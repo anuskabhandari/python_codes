@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resume_parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/student_api/crudapi" vcs="Git" />
   </component>
 </project>
